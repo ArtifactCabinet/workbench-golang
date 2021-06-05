@@ -1,6 +1,7 @@
-# ~~I probably will love Go2~~
-
-![](https://i.redd.it/7t1p88ct13ez.jpg)
+# Golang, aka google's CRUD language
+```
+go run ./nice.go
+```
 
 # Technical 
 

@@ -5,9 +5,9 @@ import (
 	"fmt"
 )
 
-func main5()  {
-	helpPtr :=flag.String("yes","","asdasdsadsa")
-	helpPtr2 :=flag.String("asd","asdasdasd","a string")
+func main() {
+	helpPtr := flag.String("yes", "", "asdasdsadsa")
+	helpPtr2 := flag.String("asd", "asdasdasd", "a string")
 
 	flag.Parse()
 

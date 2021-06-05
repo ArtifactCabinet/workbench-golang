@@ -8,7 +8,7 @@ import (
 
 //TODO: compare Goroutines with threads
 
-func main4() {
+func main() {
 	rand.Seed(time.Now().UTC().UnixNano())
 
 	wg := new(sync.WaitGroup) // A special counter for Gor

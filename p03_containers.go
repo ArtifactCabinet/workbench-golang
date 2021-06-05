@@ -11,7 +11,7 @@ import (
 
 var mapper map[int]string
 
-func main03() {
+func main() {
 	//map functions
 	mapper = make(map[int]string)
 	files, err := ioutil.ReadDir(".")

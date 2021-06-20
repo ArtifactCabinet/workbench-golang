@@ -28,7 +28,7 @@ func inc(a *int) {
 	*a += 1
 }
 
-func main01() {
+func main() {
 	var aray = [2]int{1, 2}
 
 	inc(&aray[0])
